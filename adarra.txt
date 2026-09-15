@@ -1,1 +1,2 @@
 Nire adarreko fitxategia
+lerro berri bat adarra.txt
